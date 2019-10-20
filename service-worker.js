@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/JuliaRomania/precache-manifest.1509137e8973a3657e18159f6ee06c33.js"
+  "/JuliaRomania/precache-manifest.167665bca0e86183255118fbd0e871ba.js"
 );
 
 self.addEventListener('message', (event) => {

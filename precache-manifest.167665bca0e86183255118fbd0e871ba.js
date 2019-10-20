@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "630b8ce24f2f1478655fae11f5884ab7",
+    "revision": "05b5ed2e9dfbab78bb2ae7bf2039b81a",
     "url": "/JuliaRomania/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JuliaRomania/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "ae189417f3111aa3613e",
+    "revision": "0bbf619e4abeaee4d6f0",
     "url": "/JuliaRomania/static/css/main.831e862a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JuliaRomania/static/js/2.9b379e7a.chunk.js"
   },
   {
-    "revision": "ae189417f3111aa3613e",
-    "url": "/JuliaRomania/static/js/main.941329c4.chunk.js"
+    "revision": "0bbf619e4abeaee4d6f0",
+    "url": "/JuliaRomania/static/js/main.2b61c152.chunk.js"
   },
   {
     "revision": "70b9503d95ed69c458d5",
