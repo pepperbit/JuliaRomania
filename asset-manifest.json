@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/JuliaRomania/static/css/main.831e862a.chunk.css",
+    "main.js": "/JuliaRomania/static/js/main.941329c4.chunk.js",
+    "main.js.map": "/JuliaRomania/static/js/main.941329c4.chunk.js.map",
+    "runtime-main.js": "/JuliaRomania/static/js/runtime-main.761476f2.js",
+    "runtime-main.js.map": "/JuliaRomania/static/js/runtime-main.761476f2.js.map",
+    "static/css/2.510409cd.chunk.css": "/JuliaRomania/static/css/2.510409cd.chunk.css",
+    "static/js/2.9b379e7a.chunk.js": "/JuliaRomania/static/js/2.9b379e7a.chunk.js",
+    "static/js/2.9b379e7a.chunk.js.map": "/JuliaRomania/static/js/2.9b379e7a.chunk.js.map",
+    "index.html": "/JuliaRomania/index.html",
+    "precache-manifest.1509137e8973a3657e18159f6ee06c33.js": "/JuliaRomania/precache-manifest.1509137e8973a3657e18159f6ee06c33.js",
+    "service-worker.js": "/JuliaRomania/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/JuliaRomania/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.831e862a.chunk.css.map": "/JuliaRomania/static/css/main.831e862a.chunk.css.map",
+    "static/media/02_logo.png": "/JuliaRomania/static/media/02_logo.f33fcccd.png",
+    "static/media/files.png": "/JuliaRomania/static/media/files.6f53ab1b.png",
+    "static/media/header.png": "/JuliaRomania/static/media/header.b02bee6d.png",
+    "static/media/intro.png": "/JuliaRomania/static/media/intro.e2f7d193.png",
+    "static/media/introdl.png": "/JuliaRomania/static/media/introdl.310a0b1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.761476f2.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.9b379e7a.chunk.js",
+    "static/css/main.831e862a.chunk.css",
+    "static/js/main.941329c4.chunk.js"
+  ]
+}
